@@ -1,0 +1,14 @@
+@font-face {
+    font-family: outfit;
+    src: url(Outfit-Thin.ttf);
+}
+@font-face {
+    font-family: outfit1;
+    src: url(Outfit-Bold.ttf);
+}
+p {
+    font-family: outfit;
+}
+h1 {
+    font-family: outfit1;
+}
